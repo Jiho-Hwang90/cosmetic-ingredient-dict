@@ -260,7 +260,10 @@ st.markdown(
       · 107 Clean Standard: 2026.02.05 기준<br>
       <b>면책</b> · 매칭 결과는 참고용입니다. PDP·전성분 표기의 최종 책임은 사용자에게 있으며,
       식약처 화장품성분사전(KCIA CID) 원문 확인을 권장합니다.<br>
-      <b>문의·개선 요청</b> · R&D팀
+      <b>문의·개선 요청</b> · 황지호 책임연구원
+    </div>
+    <div style="color:#B0B0B0; font-size:0.72rem; text-align:right; margin-top:0.8rem;">
+      Made by 황지호 책임연구원
     </div>
     """,
     unsafe_allow_html=True,
