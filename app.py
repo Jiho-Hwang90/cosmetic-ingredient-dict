@@ -263,7 +263,7 @@ st.markdown(
       <b>문의·개선 요청</b> · 황지호 책임연구원
     </div>
     <div style="color:#B0B0B0; font-size:0.72rem; text-align:right; margin-top:0.8rem;">
-      Made by 황지호 책임연구원
+      Made by Jiho Hwang
     </div>
     """,
     unsafe_allow_html=True,
